@@ -34,5 +34,4 @@ Approach your design with a focus on reliability to help ensure that you design 
 
 We recommend that you review the Reliability tradeoffs to explore other concepts.
 
-> [!div class="nextstepaction"]
 > [Reliability tradeoffs](tradeoffs.md)
